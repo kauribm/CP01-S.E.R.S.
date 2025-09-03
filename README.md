@@ -30,3 +30,12 @@ A Parte 4 foi realizada no **Orange Data Mining** utilizando widgets visuais par
 Abaixo está o **fluxograma do projeto**:
  
 [📂 Abrir workflow no Orange](./orange.svg)
+
+---
+
+## Integrantes
+- Nelson Troccoli Santos Neto (RM562815)
+- Guilherme Willians de Souza Inácio (RM565319)
+- Isabella Piñeiro Santana (RM562779)
+- Kauã da Silva Lazarim (RM564625) 
+- Kauany Ribeiro de Moura (RM564576)
