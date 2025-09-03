@@ -29,4 +29,4 @@ Notebook com a **Parte 3** (Exercícios 26–35):
 A Parte 4 foi realizada no **Orange Data Mining** utilizando widgets visuais para explorar e modelar os dados.  
 Abaixo está o **fluxograma do projeto**:
  
-[📂 Abrir workflow no Orange](./orange.ows)
+[📂 Abrir workflow no Orange](./orange.svg)
