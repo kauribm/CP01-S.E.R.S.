@@ -8,4 +8,23 @@ Além de análises em **Python (Jupyter Notebooks)**, a Parte 4 apresenta experi
 
 ---
 
-## Power Consumption Analysis Parte 1 e 2
+## 📂 Notebooks
+
+Os experimentos foram organizados em partes distintas:
+
+- 📒 [Parte 1 e 2 – Household Power Consumption (Exercícios 1–25)](Power_Consumption_Analysis_Part1&2)   
+- 📒 [Parte 3 – Appliances Energy Prediction (Exercícios 26–35)](Appliances_Energy_Analysis)  
+
+> Clique nos links acima para abrir os notebooks diretamente no GitHub ou fazer o download.
+
+---
+
+## 🎨 Fluxo no Orange Data Mining
+
+A Parte 4 foi realizada no **Orange Data Mining** utilizando widgets visuais para explorar e modelar os dados.  
+Abaixo está o **fluxograma do projeto**:
+
+![Fluxograma Orange](imagens/fluxo_orange.png)
+
+O arquivo `.ows` correspondente também está disponível para abrir no Orange:  
+[📂 Abrir workflow no Orange](orange/Part4_Orange.ows)
