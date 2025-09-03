@@ -5,3 +5,7 @@ Este repositório reúne análises exploratórias, estatísticas, aprendizado de
 2. **Appliances Energy Prediction**  
 
 Além de análises em **Python (Jupyter Notebooks)**, a Parte 4 apresenta experimentos no **Orange Data Mining**.
+
+---
+
+## Power Consumption Analysis Parte 1 e 2
