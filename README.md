@@ -12,10 +12,15 @@ Além de análises em **Python (Jupyter Notebooks)**, a Parte 4 apresenta experi
 
 Os experimentos foram organizados em partes distintas:
 
-<Power_Consumption_Analysis_Part1&2>   
-<Appliances_Energy_Analysis> 
+### 🔹 Household Power Consumption
+Notebook com as **Partes 1 e 2** (Exercícios 1–25):  
+👉 [Abrir Power_Consumption_Analysis_Part1&2.ipynb](./Power_Consumption_Analysis_Part1&2.ipynb)
 
-> Clique nos links acima para abrir os notebooks diretamente no GitHub ou fazer o download.
+---
+
+### 🔹 Appliances Energy Prediction
+Notebook com a **Parte 3** (Exercícios 26–35):  
+👉 [Abrir Appliances_Energy_Analysis.ipynb](./Appliances_Energy_Analysis.ipynb)
 
 ---
 
